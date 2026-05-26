@@ -1,2 +1,8 @@
-requirements
+# requirements
 
+streamlit
+numpy
+pandas
+matplotlib
+seaborn
+Plotly
